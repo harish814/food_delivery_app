@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "392596323168",
+    "project_id": "food-filivry-app",
+    "storage_bucket": "food-filivry-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392596323168:android:e22c31d60bb9f7015bfc05",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392596323168-kf7oq33l3gkk0ckae8cq6mmkjv9k8br2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_delivery_app",
+            "certificate_hash": "bfd0c9c9d636df5aab65a8548269968a7cd10a51"
+          }
+        },
+        {
+          "client_id": "392596323168-92cnjcjk695fr7q2sfkq6e5rv7smtf44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyN0nGc3I2Vr9YEn_8swBrKMTs8C-OC20"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392596323168-92cnjcjk695fr7q2sfkq6e5rv7smtf44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
